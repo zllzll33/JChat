@@ -60,7 +60,6 @@ public class BaseActivity extends Activity {
     private Dialog dialog;
 
     private UserInfo myInfo;
-
     private View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
