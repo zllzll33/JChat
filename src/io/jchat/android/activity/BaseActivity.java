@@ -41,6 +41,7 @@ public class BaseActivity extends Activity {
     int bb=1;
     int d;
     int e;
+    int f;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
