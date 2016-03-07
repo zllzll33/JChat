@@ -37,8 +37,7 @@ public class BaseActivity extends Activity {
     protected int mAvatarSize;
     protected int mWidth;
     protected int mHeight;
-  int ii=0;
-    int b=0;
+   int aa=1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
